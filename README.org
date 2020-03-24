@@ -1,0 +1,5 @@
+* Compiling
+Compile =scheduler= by running =make= in this directory.
+
+* Usage
+=./scheduler [job file] [queue size]=
